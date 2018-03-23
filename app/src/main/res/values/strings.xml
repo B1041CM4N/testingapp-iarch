@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Testapp</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Enviar</string>
+    <string name="login">Ingresar</string>
+    <string name="email">Correo Electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="icon_description">Icono</string>
+    <string name="terms_and_conditions">Términos y Condiciones</string>
+    <string name="logo">logo</string>
+</resources>
